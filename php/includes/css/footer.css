@@ -1,0 +1,36 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+/* footer */
+/* /////////////////////////////////////////////////////////////////////// */
+.footer {
+    background-image: url(../img/bg-banner.jpg);
+    background-position: center;
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
+.rgba1{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.footer p{
+    color: rgba(220, 220, 220, 0.658);
+}
+.icon-footer a i {
+    background-color: #007bff;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    font-size: 18px;
+    color: white;
+    margin: auto;
+    transition: all 0.9s;
+}
+.icon-footer a i:hover{
+    background-color: #6e686cc0;
+}
+/* end footer */
+/* /////////////////////////////////////////////////////////////////////// */

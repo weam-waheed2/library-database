@@ -1,0 +1,45 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+
+/* navbar */
+/* /////////////////////////////////////////////////////////////////////// */
+.bg {
+    background-image: url(../img/bg-banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.rgba{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.navbar-nav .dropdown-menu{
+    background-color: black !important;
+}
+/* .nav-text {
+    background-color: #407BFF;
+    padding: 4px 10px;
+    border-radius: 5px;
+}
+.nav-item a{
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.849) !important;
+} */
+/* .nav-item a:hover{
+    background-color: #407BFF;
+    padding: 8px 10px;
+    border-radius: 5px;
+    transition: all 0.9s;
+} */
+
+
+
+
+
+

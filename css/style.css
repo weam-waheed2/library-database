@@ -1,0 +1,148 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+
+
+
+.bg {
+    background-image: url(../img/bg-banner.jpg);
+    background-color: #006dac;
+    /* background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); */
+    background-size: cover;
+    background-position: center;
+}
+
+.rgba {
+    background: url(../img/stars.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.rgba {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+
+
+
+
+
+/* navbar */
+/* /////////////////////////////////////////////////////////////////////// */
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.nav-text {
+    background-color: #407BFF;
+    padding: 4px 10px;
+    border-radius: 5px;
+}
+.nav-item a{
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.849) !important;
+}
+.nav-item a:hover{
+    background-color: #407BFF;
+    padding: 8px 10px;
+    border-radius: 5px;
+    transition: all 0.9s;
+}
+/* end navbar */
+/* /////////////////////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+/* header */
+/* /////////////////////////////////////////////////////////////////////// */
+.text-header{
+    text-transform: uppercase;
+}
+.header h4{
+    color: rgb(167, 167, 167);
+}
+.header {
+    color: white;
+}
+/* end header */
+/* /////////////////////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+/* sec1 */
+/* /////////////////////////////////////////////////////////////////////// */
+.img-about .img {
+    overflow: hidden;
+}
+
+.img-about img {
+    backface-visibility: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+.img-about:hover img {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+
+/* end sec1 */
+/* /////////////////////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+/* sec2 */
+/* /////////////////////////////////////////////////////////////////////// */
+.icon {
+    background-color: #007bff;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    margin: auto;
+}
+/* end sec2 */
+/* /////////////////////////////////////////////////////////////////////// */
+
+
+
+
+.bg1 {
+    background: url(../img/bg-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.rgba1 {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.bg1 h5{
+    color: rgba(220, 220, 220, 0.747);
+}
+
+
+
+
+
+
+
+
+
+
+

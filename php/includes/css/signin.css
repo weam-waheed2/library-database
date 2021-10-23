@@ -1,0 +1,34 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+
+/* register */
+/* /////////////////////////////////////////////////////////////////////// */
+.icon i{
+    color: white;
+    font-size: 19px;
+    background-color: gray;
+    border-radius: 50%;
+    width: 2.3rem;
+    height: 2.3rem;
+}
+.form-check-label {
+    color: rgba(0, 0, 0, 0.753);
+}
+
+h2,
+h3,
+h4 {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+
+

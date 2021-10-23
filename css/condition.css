@@ -1,0 +1,32 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.836);
+}
+
+
+
+
+
+.bg {
+    background-image: url(../img/bg-banner.jpg);
+    background-color: #006dac;
+    background-size: cover;
+    background-position: center;
+}
+
+.rgba {
+    background: url(../img/stars.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.rgba {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.border{
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(0, 45, 128, 0.315);
+}

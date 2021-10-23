@@ -1,0 +1,15 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+
+/* mail-sent */
+.msg-req h2{
+    color: rgb(73, 73, 73) !important;
+}
+.icon-req{
+    font-size: 80px;
+    color: #407BFF;
+}

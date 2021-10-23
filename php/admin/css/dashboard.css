@@ -1,0 +1,16 @@
+.bg-dash {
+    background: #141E30;
+    background: linear-gradient(to right, #243B55, #141E30);
+    color: white;
+    border-radius: 10px;
+}
+.bg-dash i{
+    font-size: 30px;
+    background-color: #007bff;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+}
+.bg-dash p{
+    color: rgb(209, 207, 207);
+}
